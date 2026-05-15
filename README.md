@@ -10,7 +10,7 @@ Designed with a premium dark UI, glassmorphism effects, animated sections, inter
 Deploy easily using GitHub Pages, Netlify, or Vercel.
 
 Example:
-https://yourusername.github.io/
+[https://yourusername.github.io/](https://sabalechaitanya13.github.io/portfolio_website/#projec)
 
 ---
 
